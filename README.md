@@ -9,8 +9,8 @@ I've been working with technology and digital products for over 12 years and her
 
 ### Skills
 <div style"display: inline_block">
-  <img aling="center" alt="react" src="https://img.shields.io/badge/React-282a36?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img aling="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-282a36?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img aling="center" alt="react" src="https://img.shields.io/badge/React-282a36?style=for-the-badge&logo=react&logoColor=white" />
+  <img aling="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-282a36?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img aling="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-282a36?style=for-the-badge&logo=node.js&logoColor=white" />
   <img aling="center" alt="graphql" src="https://img.shields.io/badge/GraphQl-282a36?style=for-the-badge&logo=graphql&logoColor=white" />
   <img aling="center" alt="expressjs" src="https://img.shields.io/badge/Express.js-282a36?style=for-the-badge" />
@@ -23,7 +23,7 @@ I've been working with technology and digital products for over 12 years and her
   <img aling="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-282a36?style=for-the-badge&logo=typescript&logoColor=white" />
   <img aling="center" alt="redux" src="https://img.shields.io/badge/Redux-282a36?style=for-the-badge&logo=redux&logoColor=white" />
   <img aling="center" alt="jest" src="https://img.shields.io/badge/Jest-282a36?style=for-the-badge&logo=jest&logoColor=white" />
-  <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=white" />
   <img aling="center" alt="jquery" src="https://img.shields.io/badge/jQuery-282a36?style=for-the-badge&logo=jquery&logoColor=white" />
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-282a36?style=for-the-badge&logo=html5&logoColor=white" />
 
@@ -52,7 +52,7 @@ I've been working with technology and digital products for over 12 years and her
   
   <img aling="center" alt="strapi" src="https://img.shields.io/badge/strapi-282a36?style=for-the-badge&logo=strapi&logoColor=white" />
   <img aling="center" alt="swagger" src="https://img.shields.io/badge/Swagger-282a36?style=for-the-badge&logo=Swagger&logoColor=white" />
-  <img aling="center" alt="vite" src="https://img.shields.io/badge/Vite-282a36?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img aling="center" alt="vite" src="https://img.shields.io/badge/Vite-282a36?style=for-the-badge&logo=vite&logoColor=white" />
   <img aling="center" alt="webpack" src="https://img.shields.io/badge/Webpack-282a36?style=for-the-badge&logo=Webpack&logoColor=white" />
   
 </div>
