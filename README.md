@@ -6,12 +6,12 @@ I've been working more than 13 years on innovation and technology products. Here
 
 ## Check out my last experiments
 
-### Space Invaders
+### Space Invaders 
 <div style"display: inline_block">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/HTML5-282a36?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
-<p>Space Invaders is a classic game that you should be able to find at any retro-based arcade. Surprisingly, coding it with JavaScript isn't that difficult, we just need to know few concepts regarding image rendering, physics, and object interaction.</p>
+<p>Space Invaders is a classic game that you should be able to find at any retro-based arcade. Surprisingly, coding it with JavaScript isn't that difficult, we just need to know few concepts regarding image rendering, physics, and object interaction. <a href="https://thbastos.github.io/space-invaders/" target="_blank">Play demo ></a></p>
 <img aling="center" alt="react" src="https://raw.githubusercontent.com/ThBastos/space-invaders/master/img/playing-2.gif" />
 
 ### Pomodoro Timer
@@ -23,5 +23,5 @@ I've been working more than 13 years on innovation and technology products. Here
   <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-282a36?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-<p>The Pomodoro Technique is a time management method for students, perfectionists, and procrastinators of all kinds. Work in focused, 25-minute intervals. Here we have a customizable timer to practice pomodoro.</p>
+<p>The Pomodoro Technique is a time management method for students, perfectionists, and procrastinators of all kinds. Work in focused, 25-minute intervals. Here we have a customizable timer to practice pomodoro. <a href="https://github.com/ThBastos/diversifica-pomodoro" target="_blank">Check repo ></a></p>
 <img align="center" width="350" src="https://diversifica.dev/wp-content/uploads/2022/12/Screen-Shot-2022-12-19-at-13.23.15-1024x561.png">
