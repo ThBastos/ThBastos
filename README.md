@@ -10,6 +10,7 @@ I've been working more than 13 years on innovation and technology products. Here
 <div style"display: inline_block">
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/HTML5-282a36?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="canvas" src="https://img.shields.io/badge/Canvas-282a36?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 <p>Space Invaders is a classic game that you should be able to find at any retro-based arcade. Surprisingly, coding it with JavaScript isn't that difficult, we just need to know few concepts regarding image rendering, physics, and object interaction. <a href="https://thbastos.github.io/space-invaders/" target="_blank">Play demo ></a></p>
 <img aling="center" alt="react" src="https://raw.githubusercontent.com/ThBastos/space-invaders/master/img/playing-2.gif" />
