@@ -1,4 +1,4 @@
-### Hi 😊
+### Hi there 😊
 
 I've been working with technology and digital products for over 12 years and here are some of the projects I made to practice and play with new things. More professional infos on my [LinkedIn](https://www.linkedin.com/in/thallesbastos/en) profile and some projects on [my portfolio](https://thbastos.com/).
 <br />
