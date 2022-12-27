@@ -16,7 +16,14 @@
                 }
             }
             </style>
-            <h1>HELLO WORLD!</h1>
+            <div style="display: grid">
+                <div>
+                    <img aling="center" alt="react" src="https://raw.githubusercontent.com/ThBastos/space-invaders/master/img/playing-2.gif" />
+                </div>
+                <div>
+                    <img aling="center" alt="react" src="https://raw.githubusercontent.com/ThBastos/space-invaders/master/img/playing-2.gif" />
+                </div>
+            </div>
         </div>
     </foreignObject>
 </svg>
