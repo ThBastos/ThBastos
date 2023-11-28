@@ -25,4 +25,4 @@ I've been working more than 13 years on innovation and technology products. Here
 </div>
 
 <p>The Pomodoro Technique is a time management method for students, perfectionists, and procrastinators of all kinds. Work in focused, 25-minute intervals. Here we have a customizable timer to practice pomodoro. <a href="https://github.com/ThBastos/diversifica-pomodoro" target="_blank">Check repo ></a></p>
-<img align="center" width="350" src="https://diversifica.dev/wp-content/uploads/2022/12/Screen-Shot-2022-12-19-at-13.23.15-1024x561.png">
+<img align="center" width="350" src="https://thbastos.com/diversifica.dev/wp-content/uploads/2022/12/Screen-Shot-2022-12-19-at-13.23.15-1024x561.png">
